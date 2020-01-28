@@ -3,7 +3,7 @@
 <title>Hello World!</title>
 </head>
 <body bgcolor="#A3ECF5">
-	<h1 align="center"> Hello World </h1>
+	<p align="center"><font size="72"><b><I>Hello world!</I></b></font></p>
 	<br>
 	<br>
 	<p align="center">
